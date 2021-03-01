@@ -19,7 +19,7 @@ if __name__ == '__main__':
     import sys
     if len(sys.argv) > 1:
             from elsa import cli
-            cli(app, base_url='https://1kwm2.com')
+            cli(app, base_url='https://ffmmrrgg.github.io/')
     else:
         app.run(debug=True, host='0.0.0.0', port=8800)
 
